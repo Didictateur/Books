@@ -1,7 +1,9 @@
 Status:
 - [x] Brouillon en cours d'écriture
     - [x] Chap 1
+        - [ ] Première révision
     - [x] Chap 2
+        - [ ] Première révision
     - [ ] Chap 3
     - [ ] Chap 4
     - [ ] Chap 5
